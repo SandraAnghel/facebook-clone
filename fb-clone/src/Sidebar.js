@@ -13,14 +13,14 @@ import { ExpandMoreOutlined } from '@material-ui/icons';
 function Sidebar() {
   return (
     <div className="sidebar">
-      <SidebarRow src="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4" title="Sandra ISOC"/>
-      <SidebarRow Icon={LocalHospitalIcon} title="COVID-19 Information Center"/>
-      <SidebarRow Icon={EmojiFlagsIcon} title="Pages"/>
-      <SidebarRow Icon={PeopleIcon} title="Friends"/>
-      <SidebarRow Icon={ChatIcon} title="Messenger"/>
-      <SidebarRow Icon={StorefrontIcon} title="Marketplace"/>
-      <SidebarRow Icon={VideoLibraryIcon} title="Videos"/>
-      <SidebarRow Icon={ExpandMoreOutlined} title="Marketplace"/>  
+      <SidebarRow src="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4" title="Sandra ISOC" />
+      <SidebarRow Icon={LocalHospitalIcon} title="COVID-19 Information Center" />
+      <SidebarRow Icon={EmojiFlagsIcon} title="Pages" />
+      <SidebarRow Icon={PeopleIcon} title="Friends" />
+      <SidebarRow Icon={ChatIcon} title="Messenger" />
+      <SidebarRow Icon={StorefrontIcon} title="Marketplace" />
+      <SidebarRow Icon={VideoLibraryIcon} title="Videos" />
+      <SidebarRow Icon={ExpandMoreOutlined} title="Marketplace" />
     </div>
   )
 }

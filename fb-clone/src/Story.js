@@ -6,8 +6,8 @@ function Story({ image, profileSrc, title }) {
 
   console.log(image);
   return (
-    <div style={{ backgroundImage: `url(${image})`}} className="story">
-      <Avatar className='story__avatar' src={profileSrc}/>
+    <div style={{ backgroundImage: `url(${image})` }} className="story">
+      <Avatar className='story__avatar' src={profileSrc} />
       <h4>{title}</h4>
     </div>
   );
