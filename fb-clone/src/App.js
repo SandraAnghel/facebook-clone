@@ -1,23 +1,28 @@
 import './App.css';
 import Feed from './Feed';
 import Header from './Header';
+import Login from './Login';
 import Sidebar from './Sidebar';
 import Widgets from './Widgets';
 
 function App() {
+
+  const user = "sandra";
+
   return (
     // BEM naming convention
     <div className="app">
-      <Header />
+      {!user ? (<Login />) : (
+        <>
+          <Header />
 
-      <div className='app__body'>
-        <Sidebar />
-        <Feed />
-         <Widgets />
-      </div>
-
-      {/* App body */}
-
+          <div className='app__body'>
+            <Sidebar />
+            <Feed />
+            <Widgets />
+          </div>
+        </>
+      )}
     </div>
   );
 }
