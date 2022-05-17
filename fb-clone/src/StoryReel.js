@@ -6,22 +6,22 @@ function StoryReel() {
   return (
     <div className='storyReel'>
       <Story 
-         image="https://mk0laterblogouwugirk.kinstacdn.com/wp-content/uploads/2019/01/How-Often-to-Post-to-Facebook-Stories.png"
+         image="https://spectrum.ieee.org/media-library/graphic-image-opener-for-the-top-programming-languges-introduction-article.jpg?id=25581112&width=980"
          profileSrc="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4"
          title="Sonny Sangha"         
       />
       <Story 
-         image="https://mk0laterblogouwugirk.kinstacdn.com/wp-content/uploads/2019/01/How-Often-to-Post-to-Facebook-Stories.png"
+         image="https://spectrum.ieee.org/media-library/graphic-image-opener-for-the-top-programming-languges-introduction-article.jpg?id=25581112&width=980"
          profileSrc="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4"
          title="Rafeh"         
       />
       <Story 
-         image="https://mk0laterblogouwugirk.kinstacdn.com/wp-content/uploads/2019/01/How-Often-to-Post-to-Facebook-Stories.png"
+         image="https://spectrum.ieee.org/media-library/graphic-image-opener-for-the-top-programming-languges-introduction-article.jpg?id=25581112&width=980"
          profileSrc="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4"
          title="Frankie"         
       />
       <Story 
-         image="https://mk0laterblogouwugirk.kinstacdn.com/wp-content/uploads/2019/01/How-Often-to-Post-to-Facebook-Stories.png"
+         image="https://spectrum.ieee.org/media-library/graphic-image-opener-for-the-top-programming-languges-introduction-article.jpg?id=25581112&width=980"
          profileSrc="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4"
          title="Naz"         
       />
