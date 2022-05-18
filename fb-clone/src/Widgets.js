@@ -11,4 +11,4 @@ function Widgets() {
   )
 }
 
-export default Widgets
+export default Widgets;

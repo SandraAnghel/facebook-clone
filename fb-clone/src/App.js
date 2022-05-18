@@ -7,7 +7,7 @@ import Widgets from './Widgets';
 
 function App() {
 
-  const user = "sandra";
+  const user = null;
 
   return (
     // BEM naming convention
