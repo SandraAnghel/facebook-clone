@@ -2,8 +2,8 @@ import { Avatar } from '@material-ui/core';
 import React from 'react';
 import "./Post.css";
 import ThumbUpIcon from '@material-ui/icons/ThumbUp'
-import  ChatBubbleOutlineIcon  from '@material-ui/icons/ChatBubbleOutline';
-import  AccountCircleIcon  from '@material-ui/icons/AccountCircle';
+import ChatBubbleOutlineIcon from '@material-ui/icons/ChatBubbleOutline';
+import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 import NearMeIcon from '@material-ui/icons/NearMe';
 import { ExpandMoreOutlined } from '@material-ui/icons';
 

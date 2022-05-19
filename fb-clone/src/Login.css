@@ -4,24 +4,24 @@
     height: 100vh;
 }
 
-.login > div > img {
+.login>div>img {
     object-fit: contain;
     height: 150px;
 }
 
-.login > div {
+.login>div {
     display: flex;
     flex-direction: column;
 }
 
-.login > button {
+.login>button {
     width: 300px;
     background-color: #2e81f4;
     color: #eff2f5;
     font-weight: 800;
 }
 
-.login > button:hover {
+.login>button:hover {
     background-color: white;
     color: #2e81f4;
 }
